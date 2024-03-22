@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: rgb(255, 199, 218);
+    background-color: #DB7093;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -19,4 +19,26 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+.imagem-lylia{
+    width: 25%;
+}
+
+.mobilelegends{
+    background-image:linear-gradient(#DB7093,#FFB6C1)
+}
+.mobile-texto-um{
+    color: white;
+    display: flex;
+}
+
+.mobile-texto-dois{
+    color: white;
+    display: flex;
+}
+
+.mobile-titulo{
+    color: white;
+    display: flex;
 }
