@@ -26,8 +26,14 @@
 }
 
 .mobilelegends{
-    background-image:linear-gradient(#DB7093,#FFB6C1)
+    background-image:linear-gradient(#DB7093,#FFB6C1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
+    
+
 .mobile-texto-um{
     color: white;
     display: flex;
@@ -41,4 +47,11 @@
 .mobile-titulo{
     color: white;
     display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.lylia-div{
+    width: 35%;
+    
 }
